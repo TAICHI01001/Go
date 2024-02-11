@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background: #fff;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    background: #000;
+    border-radius: 5px;
+    padding: 3px 10px;
+}
+.title{
+    border-radius: 5px;
+    padding: 0 5px;
+    margin: 1px 0 0 1px;
+    width: 150px;
+}
+.account{
+    display: flex;
+    justify-content: space-between;
+}
